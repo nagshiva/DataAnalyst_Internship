@@ -1,7 +1,5 @@
 # Data Pre-Processing
 
-Sure! Here's a `README.md` file for your data cleaning project based on the code you've written:
-
 ---
 
 ```markdown
