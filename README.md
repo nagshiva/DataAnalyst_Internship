@@ -11,7 +11,6 @@ This project focuses on cleaning a sample sales dataset using Python and the pan
 
 ## 📂 File Structure
 
-```
 DataCleanTask1/
 ├── sales_data_sample.csv        # Original raw data file
 ├── cleaned_sales_data.csv       # Output file after cleaning
